@@ -10,7 +10,7 @@
   <img src="https://github.com/YOUR_GITHUB_USERNAME.png" width="120" style="border-radius:50%;border:4px solid #00C8FF;" alt="avatar" />
 </p>
 
-<h3 align="center">🚀 Back-End Engineer • PHP & Laravel • Web Systems • Problem Solver</h3>
+<h3 align="center">💻 Full Stack Developer | JavaScript • Python • Django • MYsql </h3>
 
 ---
 
