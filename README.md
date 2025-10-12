@@ -67,24 +67,13 @@ I'm always open to collaborating on new projects and innovative ideas.
 
 ### 📊 GitHub stats — modern look
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Code+•+Create+•+Ship" alt="typing">
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&title_color=00C8FF&icon_color=00C8FF" alt="GitHub stats" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="streak" height="160"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&card_width=300" alt="Top languages" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories"><img src="https://img.shields.io/badge/Repos-Show-blue?style=for-the-badge&logo=github" alt="repos" /></a>
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge" alt="followers" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-green?style=for-the-badge" alt="status" />
-</p>
+
 
 
 ---
