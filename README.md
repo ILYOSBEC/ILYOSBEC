@@ -65,11 +65,12 @@ I'm always open to collaborating on new projects and innovative ideas.
 
 ---
 
-### 📊 GitHub stats
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ILYOSNECWEB&show_icons=true&theme=tokyonight" alt="Ilyosbec's GitHub stats" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=ILYOSNECWEB&theme=tokyonight" alt="Ilyosbec's GitHub streak" height="150" />
 </p>
+
 
 ---
 
