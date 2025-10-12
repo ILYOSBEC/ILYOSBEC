@@ -39,26 +39,24 @@ Doimo yangi loyihalar va innovatsion g‘oyalar ustida hamkorlik qilishga ochiqm
   <img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,linux&perline=8" alt="skills" />
 </p>
 
-- **Primary:** PHP, Laravel, MySQL/Postgres, Redis  
-- **Frontend:** HTML, CSS, JavaScript, Vue.js, Tailwind CSS  
-- **DevOps / Tools:** Docker, Nginx, Git, Linux  
-- **Boshqa:** Python (server scripts, automation), REST & GraphQL
+- **Primary:** MySQL/Postgres 
+- **Frontend:** HTML, CSS, JavaScript 
+- **other:** Python & Django 
 
 ---
 
 ### 🔭 Men hozir nima qilayapman
-- Microservices va Event-Driven Architecture yo‘nalishlarini chuqur o‘rganyapman.  
-- Yangi yuqori yuklamali backend arxitekturani loyihalash ustida proyekt.  
-- Open-source loyihalarga hissa qo‘shaman (yaqin kelajakda repository’larni update qilaman).
+- men hozirda pythonni o'rganyapman va keyin djangoni o'rganishni boshlayman.  
+- hozirda test yechadigan sayt ustida ishlayapman jamoam bilan.  
+- mening tezkor mashinalar haqidagi sayitim ham bor tez orada bitadi va men uni githunga yuklayman.
 
 ---
 
 ### 📂 Portfolio / Selected Projects
-- **Project A** — Laravel + Vue ilova (API + real-time notifications)  
+- **SPORT MASHINALARI** — html + css + javascript = (tezkor mashinalar sayiti)  
 - **Project B** — High-load task queue bilan integratsiya (Redis + Supervisor)  
 - **Project C** — Flask/FastAPI xizmat: analytics + ETL skriptlar (Python)
 
-(Projects bo‘limini o‘zinging haqiqiy loyiha nomlari va qisqacha tavsif bilan to‘ldir.)
 
 ---
 
@@ -78,9 +76,9 @@ Doimo yangi loyihalar va innovatsion g‘oyalar ustida hamkorlik qilishga ochiqm
 ---
 
 ### 📫 Kontakt
-- Email: `your-email@example.com`  
-- Telegram: `@your_telegram`  
-- LinkedIn: `your-linkedin-profile`
+- Email: `ilyosruzuyev@gmail.com`  
+- Telegram: `@ILYOSBEC_WEBB`  
+- Telegram channel: `@ilyosbec_WEEB`
 
 ---
 
