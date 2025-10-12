@@ -70,8 +70,10 @@ I'm always open to collaborating on new projects and innovative ideas.
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&card_width=300" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&title_color=00C8FF&icon_color=00C8FF" alt="GitHub stats" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="streak" height="160"/>
 </p>
+
 
 
 
