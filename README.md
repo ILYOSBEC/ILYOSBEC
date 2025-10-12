@@ -15,14 +15,15 @@
 
 ---
 
-### 👋 Salom! / About me
-Men — **Ro'ziyev Ilyosbek**. Back-end sohasida ishlayman va yuqori yuklamali xizmatlar, web ilovalar va tizimlar yaratishda tajribam bor.  
-Men muammolarni hal qilaman, jarayonlarni avtomatlashtiraman va biznes hamda insonlar hayotini yaxshilashga qo‘l uraman.  
-Doimo yangi loyihalar va innovatsion g‘oyalar ustida hamkorlik qilishga ochiqman.
+### 👋 Hello! / About Me
+I'm **Ro'ziyev Ilyosbek**, a full-stack developer with experience in building high-load services, web applications, and scalable systems.  
+I solve problems, automate processes, and work to improve both businesses and people's lives.  
+I'm always open to collaborating on new projects and innovative ideas.
+
 
 ---
 
-### 🔗 Men bilan bog'lanish
+### 🔗 Contact Me
 <p align="center">
   <a href="https://ilyosbec-portifoliyo.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
@@ -36,9 +37,9 @@ Doimo yangi loyihalar va innovatsion g‘oyalar ustida hamkorlik qilishga ochiqm
 
 ---
 
-### 🧰 Tech stack (men bilganlar)
+### 🧰 Tech stack (me knows)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,line=8" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql=8" alt="skills" />
 </p>
 
 - **Primary:** MySQL/Postgres 
@@ -47,17 +48,19 @@ Doimo yangi loyihalar va innovatsion g‘oyalar ustida hamkorlik qilishga ochiqm
 
 ---
 
-### 🔭 Men hozir nima qilayapman
-- men hozirda pythonni o'rganyapman va keyin djangoni o'rganishni boshlayman.  
-- hozirda test yechadigan sayt ustida ishlayapman jamoam bilan.  
-- mening tezkor mashinalar haqidagi sayitim ham bor tez orada bitadi va men uni githunga yuklayman.
+### 🔭 What I'm Currently Working On
+- I'm currently learning **Python**, and I plan to start learning **Django** next.  
+- Right now, I'm working on a **quiz website** with my team.  
+- I also have a **fast cars website** that’s almost finished — I’ll upload it to GitHub soon.
+
 
 ---
 
 ### 📂 Portfolio / Selected Projects
-- **SPORT MASHINALARI** — html + css + javascript = (tezkor mashinalar sayiti)  
-- **Project B** — High-load task queue bilan integratsiya (Redis + Supervisor)  
-- **Project C** — Flask/FastAPI xizmat: analytics + ETL skriptlar (Python)
+- **SPORT CARS** — Built with **HTML + CSS + JavaScript** (a website about the fastest cars)  
+- **Project B** — Coming soon  
+- **Project C** — Coming soon
+
 
 
 ---
@@ -72,8 +75,8 @@ Doimo yangi loyihalar va innovatsion g‘oyalar ustida hamkorlik qilishga ochiqm
 
 ### ⚡ Fun / Personal
 - 💪 Bodybuilding & Calisthenics  
-- 🎥 YouTube’da kod darslari (rejalashtirilgan / mavjud)  
-- ☕ Kofe va kod — mening energiya manbaim
+- 🎥 YouTube coding tutorials (planned / upcoming)  
+- ☕ Coffee and code — my main source of energy
 
 ---
 
