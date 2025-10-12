@@ -44,7 +44,7 @@ I'm always open to collaborating on new projects and innovative ideas.
 
 - **Primary:** MySQL/Postgres 
 - **Frontend:** HTML, CSS, JavaScript 
-- **other:** Python & Django 
+- **Back-end:** Python & Django 
 
 ---
 
