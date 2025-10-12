@@ -38,7 +38,7 @@ Doimo yangi loyihalar va innovatsion g‘oyalar ustida hamkorlik qilishga ochiqm
 
 ### 🧰 Tech stack (men bilganlar)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,linux&perline=8" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,line=8" alt="skills" />
 </p>
 
 - **Primary:** MySQL/Postgres 
@@ -84,4 +84,4 @@ Doimo yangi loyihalar va innovatsion g‘oyalar ustida hamkorlik qilishga ochiqm
 
 ---
 
-<p align="center">✨ Thanks for visiting — agar xohlasang, men README dizaynini dark/light theme, yoki personal banner (SVG) bilan ham sozlab beraman!</p>
+<p align="center">✨ Thanks for visiting</p>
