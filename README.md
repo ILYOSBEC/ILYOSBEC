@@ -36,7 +36,7 @@ Doimo yangi loyihalar va innovatsion g‘oyalar ustida hamkorlik qilishga ochiqm
 
 ### 🧰 Tech stack (men bilganlar)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,python,vue,nuxt,tailwind,docker,postgres,mysql,redis,git,linux&perline=8" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,python,vue,nuxt,tailwind,postgres,mysql,redis,git,linux&perline=8" alt="skills" />
 </p>
 
 - **Primary:** PHP, Laravel, MySQL/Postgres, Redis  
