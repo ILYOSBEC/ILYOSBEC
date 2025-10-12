@@ -3,8 +3,9 @@
 <!-- =============================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Hey+there!+%F0%9F%91%8B+I'm+Ro'ziyev+Ilyosbek;💻 Full Stack Developer +%7C+PHP+%26+Laravel;HTML+%7C+CSS+%7C+JS+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Hey+there!+%F0%9F%91%8B+I'm+Ro'ziyev+Ilyosbek;💻+Full+Stack+Developer+%7C+PHP+%26+Laravel;HTML+%7C+CSS+%7C+JS+%7C+Python" alt="Typing SVG" />
 </h1>
+
 
 <p align="center">
   <img src="https://github.com/YOUR_GITHUB_USERNAME.png" width="120" style="border-radius:50%;border:4px solid #00C8FF;" alt="avatar" />
