@@ -39,26 +39,26 @@ I'm always open to collaborating on new projects and innovative ideas.
 
 ### 🧰 Tech stack (me knows)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql=8" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,reactjs,python,django,mysql=8" alt="skills" />
 </p>
 
 - **Primary:** MySQL/Postgres 
-- **Frontend:** HTML, CSS, JavaScript 
-- **Back-end:** Python & Django 
+- **Frontend:** HTML, CSS, JavaScript, Reeact 
+- **Back-end:** Python, Django, Resp api 
 
 ---
 
 ### 🔭 What I'm Currently Working On
-- I'm currently learning **Python**, and I plan to start learning **Django** next.  
-- Right now, I'm working on a **quiz website** with my team.  
-- I also have a **fast cars website** that’s almost finished — I’ll upload it to GitHub soon.
+- I'm currently learning **Javascript**, and I plan to start learning **React** next.  
+- Right now, I'm working on a **Blog website** with my team.  
+- I also have a **News website** that’s almost finished — I’ll upload it to GitHub soon.
 
 
 ---
 
 ### 📂 Portfolio / Selected Projects
-- **SPORT CARS** — Built with **HTML + CSS + JavaScript** (a website about the fastest cars)  
-- **Project B** — Coming soon  
+- **NEWS WEBSITE** — Built with **HTML + CSS + PYTHON + JAVASCRIPT + DJANGO**   
+- **BLOG WEBSITE** — Coming soon  
 - **Project C** — Coming soon
 
 
