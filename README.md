@@ -11,7 +11,7 @@
   <img src="https://github.com/ILYOSBEC.png" width="120" style="border-radius:50%;border:4px solid #00C8FF;" alt="avatar" />
 </p>
 
-<h3 align="center">💻 Full Stack Developer | Html • Css • JavaScript • Python • Django • Porstagesql </h3>
+<h3 align="center">💻 Full Stack Developer | Html • Css • JavaScript • React • Python • Django • Porstagesql </h3>
 
 ---
 
