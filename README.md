@@ -39,7 +39,7 @@ I'm always open to collaborating on new projects and innovative ideas.
 
 ### 🧰 Tech stack (me knows)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,reactjs,python,django,mysql=8" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,mysql=8" alt="skills" />
 </p>
 
 - **Primary:** MySQL/Postgres 
@@ -64,15 +64,6 @@ I'm always open to collaborating on new projects and innovative ideas.
 
 
 ---
-
-### 📊 GitHub stats — modern look
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&title_color=00C8FF&icon_color=00C8FF" alt="GitHub stats" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="streak" height="160"/>
-</p>
 
 
 
