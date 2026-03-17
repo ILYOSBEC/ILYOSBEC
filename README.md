@@ -39,7 +39,7 @@ I'm always open to collaborating on new projects and innovative ideas.
 
 ### 🧰 Tech stack (me knows)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,mysql=8" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,restframework,mysql=8" alt="skills" />
 </p>
 
 - **Primary:** MySQL/Postgres 
