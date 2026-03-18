@@ -10,6 +10,9 @@
 
 
 ### 👋 Hi there
+
+---
+
 I'm **Ro'ziyev Ilyosbek**, a full-stack developer with experience in building high-load services, web applications, and scalable systems.  
 I solve problems, automate processes, and work to improve both businesses and people's lives.  
 I'm always open to collaborating on new projects and innovative ideas.
