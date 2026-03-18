@@ -34,7 +34,7 @@ I'm always open to collaborating on new projects and innovative ideas.
 
 ---
 
-### 🧰 Tech stack (me knows)
+### 💻 Tech stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,restframework,mysql=8" alt="skills" />
 </p>
